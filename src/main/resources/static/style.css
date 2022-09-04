@@ -1,0 +1,19 @@
+body {
+    color: #113;
+}
+
+.input-group {
+    margin-top: 10px;
+}
+
+.reg-link {
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+.reg-link:hover {
+    text-decoration: underline;
+}
+.card-group{
+    margin: 5px;
+}
